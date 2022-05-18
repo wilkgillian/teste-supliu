@@ -1,38 +1,35 @@
-`#Discografia tião carreiro 🎵`
+🎵 Discografia tião carreiro 🎵</br></br>
 
-`#💭 Sobre`
+💭 Sobre</br>
 
-Esta é uma aplicação para você adicionar e apagar os nomes dos albums, ano de criação. Adicionar e apagar nomes de musicas
+Esta é uma aplicação para você adicionar e apagar os nomes dos albums, informar o ano de criação e também adicionar e apagar os nomes das musicas</br>
 
-#👨‍💻 Tecnologias Utilizadas
+👨‍💻 Tecnologias Utilizadas</br>
 
-* [Reactjs]
+* Reactjs
 * TypeScript
 * ChakraUi
 * Axios 
 
-#❗❓ Como usar
+❗❓ Como usar</br>
 
-#🤔 Pré-requisitos
+🤔 Pré-requisitos</br>
 Para conseguir utilizar a aplicação é necessário ter:
 
-* Ter em sua máquina o NPM ou Yarn para o gerenciamento dos pacotes da aplicação
-* E não menos importante, o GIT para clonar o repositório em seu computador
+* Ter em sua máquina o NPM ou Yarn para o gerenciamento dos pacotes da aplicação</br>
+* E não menos importante, o GIT para clonar o repositório em seu computador</br>
 
-#📝 Passo a passo
+📝 Passo a passo</br>
 1. Primeiro clone o repositório em seu computador, por meio do terminal utilizando o comando:
-`# Clone o repositório
-$ git clone https://github.com/wilkgillian/teste-supliu.git
-# Entre na pasta raiz da aplicação
-$ cd teste-supliu
-`
-2. Instalar as dependências da aplicação
-$ yarn # ou npm install
-
-3. Iniciar a aplicação
-# Comando para inicar a aplicação em modo de desenvolvimento
-$ yarn start ou npm start
-
-4. Visualizando a aplicação
-# Seu navegador deverá iniciar automaticamente no endereço http://localhost:3000
-# Caso não aconteça abra seu navegador no endereço http://localhost:3000 
+`# Clone o repositório`</br>
+`$ git clone https://github.com/wilkgillian/teste-supliu.git`</br>
+`# Entre na pasta raiz da aplicação`</br>
+`$ cd teste-supliu`</br>
+2. Instalar as dependências da aplicação:</br>
+`$ yarn ou npm install`</br>
+3. Iniciar a aplicação:</br>
+`# Comando para inicar a aplicação em modo de desenvolvimento`</br>
+`$ yarn start ou npm start`</br>
+4. Visualizando a aplicação:</br>
+`Seu navegador deverá iniciar automaticamente no endereço http://localhost:3000` </br>
+`Caso não aconteça abra seu navegador no endereço http://localhost:3000`
