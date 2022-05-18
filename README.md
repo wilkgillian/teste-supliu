@@ -6,7 +6,7 @@ Esta é uma aplicação para você adicionar e apagar os nomes dos albums, ano d
 
 ##👨‍💻 Tecnologias Utilizadas
 
-* Reactjs
+* [Reactjs]
 * TypeScript
 * ChakraUi
 * Axios 
