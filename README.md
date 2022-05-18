@@ -1,25 +1,25 @@
-#Discografia tião carreiro 🎵
+`#Discografia tião carreiro 🎵`
 
-##💭 Sobre
+`#💭 Sobre`
 
 Esta é uma aplicação para você adicionar e apagar os nomes dos albums, ano de criação. Adicionar e apagar nomes de musicas
 
-##👨‍💻 Tecnologias Utilizadas
+#👨‍💻 Tecnologias Utilizadas
 
 * [Reactjs]
 * TypeScript
 * ChakraUi
 * Axios 
 
-##❗❓ Como usar
+#❗❓ Como usar
 
-###🤔 Pré-requisitos
+#🤔 Pré-requisitos
 Para conseguir utilizar a aplicação é necessário ter:
 
 * Ter em sua máquina o NPM ou Yarn para o gerenciamento dos pacotes da aplicação
 * E não menos importante, o GIT para clonar o repositório em seu computador
 
-##📝 Passo a passo
+#📝 Passo a passo
 1. Primeiro clone o repositório em seu computador, por meio do terminal utilizando o comando:
 `# Clone o repositório
 $ git clone https://github.com/wilkgillian/teste-supliu.git
