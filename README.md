@@ -20,7 +20,7 @@ Para conseguir utilizar a aplicação é necessário ter:
 * E não menos importante, o GIT para clonar o repositório em seu computador</br>
 
 📝 Passo a passo</br>
-1. Primeiro clone o repositório em seu computador, por meio do terminal utilizando o comando:
+1. Primeiro clone o repositório em seu computador, por meio do terminal utilizando o comando:</br>
 `# Clone o repositório`</br>
 `$ git clone https://github.com/wilkgillian/teste-supliu.git`</br>
 `# Entre na pasta raiz da aplicação`</br>
