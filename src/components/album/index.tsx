@@ -15,7 +15,7 @@ import {
   Flex
 } from '@chakra-ui/react';
 import { useContext, useState } from 'react';
-import { DataContext } from '../../context';
+import { DataContext } from '../../contexts/dataContext';
 import { api } from '../../services/api';
 
 export function NewAlbum() {
