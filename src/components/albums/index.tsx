@@ -17,8 +17,9 @@ import { useState } from 'react';
 import { api } from '../../services/api';
 import { NewTrack } from '../tracks';
 import { useContext } from 'react';
-import { DataContext } from '../../context';
+import { DataContext } from '../../contexts/dataContext';
 import { NewAlbum } from '../album';
+import { ConvertSecondsInMinutes } from '../../utils/index'
 
 interface TrackProps {
   id: number;
@@ -28,7 +29,7 @@ interface TrackProps {
 }
 
 export function Albums() {
-  const { data, getAlbums, deleteAlbum, deleteTrack, convertSecondsInMinutes } =
+  const { data, getAlbums, deleteAlbum, deleteTrack } =
     useContext(DataContext);
 
   const [filter, setFilter] = useState('');
@@ -172,7 +173,7 @@ export function Albums() {
                                     alignItems="center"
                                     justifyContent="space-between"
                                   >
-                                    {convertSecondsInMinutes(track.duration)}
+                                    {ConvertSecondsInMinutes(track.duration)}
                                     <Button
                                       _hover={{ bg: 'red', color: 'white' }}
                                       colorScheme="none"
